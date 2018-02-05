@@ -1,0 +1,2 @@
+"$basedir/../ts-node/dist/_bin.js"   "$@"
+exit $?
